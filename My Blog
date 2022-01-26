@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <h1>My Blog</h1>
+            <body>
+                <p><a href="/Users/renna/3 Page Blog/Contact Me">Home About Contact Me</a></p>
+                <p><h3>Like food? Heres my top 3!</h3></p>
+                <p><ol>
+                    <li>Curry</li>
+                    <li>Pasta</li>
+                    <li>Sushi</li>
+                    </ol></p>
+            </body>
+    </head>
+</html>
