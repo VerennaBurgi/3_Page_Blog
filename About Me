@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <h1>About Me</h1>
+        <body>
+            <p><a href="/Users/renna/3 Page Blog/My Blog">Home About Contact Me</a></p>
+            <p><h3>Here are some interesting facts about me!</h3></p>
+            <p><ul>
+                <li>I love music.</li>
+                <li>I have 13 siblings.</li>
+                <li>I love to travle.</li>
+             </ul></p>
+        </body>
+    </head>
+</html>
